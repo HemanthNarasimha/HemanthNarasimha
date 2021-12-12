@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HemanthNarasimha
+- 👋 Hi, I’m @MyTechApplications
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on app development for Windows
